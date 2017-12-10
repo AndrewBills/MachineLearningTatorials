@@ -32,6 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="HouseFunc.cpp" />
+		<Unit filename="HouseFunc.h" />
+		<Unit filename="HousePrice.cpp" />
+		<Unit filename="HousePrice.h" />
+		<Unit filename="csv.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
